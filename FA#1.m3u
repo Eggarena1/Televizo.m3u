@@ -1,0 +1,187 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Azerbaycan",Muz TV AZ
+http://flussonic.izone.az/muztvaz/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",AZTV
+http://str.yodacdn.net/aztv/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",Medeniyyet TV
+https://str.yodacdn.net/medeniyyet/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",Idman TV
+https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",İctimai TV
+http://flussonic.izone.az/ictimaitv/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",ATV AZ
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",ATV 2 (Azad Azerbaycan)
+http://flussonic.izone.az:80/azadazerbaycan/mono.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",ARB TV
+http://flussonic.izone.az/arb/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",ARB Güneş
+http://flussonic.izone.az/arbgunesh/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",ARB 24
+http://185.32.44.154/arb24/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",Xəzər TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",Xəzər TV 2
+http://flussonic.izone.az/xezertv/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",Space TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",Space TV 2
+http://flussonic.izone.az/spacetv/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",Real TV
+http://185.32.44.154/realtv/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",Baku TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/baku-tv.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",CBC TV
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",CBC Sport
+http://erlyvideo.izone.az:80/cbcsporthd/mono.m3u8
+
+#EXTINF:-1 group-title="Azerbaycan",NTV
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536
+
+#EXTINF:-1 group-title="Azerbaycan",CBC Sport (MPD)
+http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+
+#EXTINF:-1 group-title="Tr Spor",Bein Sports 1
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/163079
+
+#EXTINF:-1 group-title="Tr Spor",Bein Sports 2
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/148075
+
+#EXTINF:-1 group-title="Tr Spor",Bein Sports 3
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/63479
+
+#EXTINF:-1 group-title="Tr Spor",S Sport 1 (Bet)
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 group-title="Tr Spor",S Sport 2 (Bet)
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 group-title="Tr Spor",S Sport 1
+https://217.30.11.74/e/3030.m3u8
+
+#EXTINF:-1 group-title="Tr Spor",S Sport 2
+https://217.30.11.74/e/3031.m3u8
+
+#EXTINF:-1 group-title="Tr Spor",TRT 3 Spor
+http://flussonic.izone.az:80/trt3spor/index.m3u8
+
+#EXTINF:-1 group-title="Tr Spor",TRT Spor
+http://flussonic.izone.az:80/trtspor/index.m3u8
+
+#EXTINF:-1 group-title="Russian Sport",MATCH! Futbol 1 A
+http://flussonic.izone.az:80/futbol1/mono.m3u8
+
+#EXTINF:-1 group-title="Russian Sport",MATCH! Futbol 1 B
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:C1:B4:D3&stream=55893&extension=ts
+
+#EXTINF:-1 group-title="Russian Sport",MATCH! Futbol 2 A
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:C1:B4:D3&stream=55894&extension=ts
+
+#EXTINF:-1 group-title="Russian Sport",MATCH! Futbol 2 B
+http://flussonic.izone.az:80/futbol2/mono.m3u8
+
+#EXTINF:-1 group-title="Russian Sport",MATCH! Futbol 3 A
+http://flussonic.izone.az:80/futbol3/mono.m3u8
+
+#EXTINF:-1 group-title="Russian Sport",MATCH! Futbol 3 B
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:C1:B4:D3&stream=55895&extension=ts
+
+#EXTINF:-1 group-title="Russian Sport",MATCH! Premier
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:C1:B4:D3&stream=55790&extension=ts
+
+#EXTINF:-1 group-title="Russian Sport",Match!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Türkiye",TRT 1  
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/8705
+
+#EXTINF:-1 group-title="Türkiye",TRT 2  
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/168471
+
+#EXTINF:-1 group-title="Türkiye",TRT Belgesel  
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Türkiye",TRT Çocuk  
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Türkiye",ATV  
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/36980
+
+#EXTINF:-1 group-title="Türkiye",ATV (Alternatif)  
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/35060
+
+#EXTINF:-1 group-title="Türkiye",Kanal D  
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 group-title="Türkiye",Show TV  
+https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+
+#EXTINF:-1 group-title="Türkiye",Show TV (Alternatif)  
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/35060
+
+#EXTINF:-1 group-title="Türkiye",Star TV  
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/107672
+
+#EXTINF:-1 group-title="Türkiye",Star TV (Alternatif)  
+https://trkvz-live.daioncdn.net/atvhd/atvhd.m3u8?st=NlmKOA46CGdF8eZq4mp4og&e=1746684898
+
+#EXTINF:-1 group-title="Türkiye",Now TV  
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/107148
+
+#EXTINF:-1 group-title="Türkiye",Now TV (Alternatif)  
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
+
+#EXTINF:-1 group-title="Türkiye",TV8  
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 group-title="Türkiye",TV8 (Alternatif)  
+https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 group-title="Türkiye",Teve2  
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/99992
+
+#EXTINF:-1 group-title="Türkiye",Teve2 (Alternatif)  
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1 group-title="Türkiye",Beyaz TV  
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/139161
+
+#EXTINF:-1 group-title="Türkiye",A2 TV  
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+
+#EXTINF:-1 group-title="Türkiye",DMAX  
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/60858
+
+#EXTINF:-1 group-title="Türkiye",TLC  
+http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/117488
+
+#EXTINF:-1 group-title="Türkiye",Diyanet Çocuk  
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Çocuk",Cartoon Network  
+https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
+
+#EXTINF:-1 group-title="Çocuk",Minika Go  
+https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
+
+#EXTINF:-1 group-title="Çocuk",Minika Çocuk  
+https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
